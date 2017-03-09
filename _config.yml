@@ -1,0 +1,32 @@
+# Site Settings
+title:               The 512 Goons
+tagline:             Gaming news and Let's Plays
+description:
+baseurl:            /512-Goons #"/512 Goons
+url:                "https://CodingGabe.github.io"
+github:
+  url:               "https://CodingGabe.github.io/512-Goons"
+author:
+  name:              "Gabe"
+  email:             "csstrickster2@gmail.com"
+  twitter:           "King_Gabes"
+  instagram:         "KingGabes"
+  github:            "CodingGabe"
+  facebook:          "Kinggabes"
+  linkedin:          "/in/gabeamaya"
+navigation:
+- title: About
+  url: /about
+- title: Videos
+  url: /videos
+- title: Reviews
+  url: /reviews
+
+paginate:            5
+disqus:              #"your-disqus"
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+gems:                [jekyll-paginate]
