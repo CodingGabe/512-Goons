@@ -60,6 +60,9 @@ img {
   border-radius: 5px;
 }
 
+.hero {
+  background: url(../images/sombra-art.png) no-repeat center center fixed;
+}
 /*
   Blockquote
 */
