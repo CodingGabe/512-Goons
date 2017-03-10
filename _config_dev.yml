@@ -2,8 +2,8 @@
 title:               The 512 Goons
 tagline:             Gaming news and Let's Plays
 description:
-baseurl:            #"/512 Goons
-url:                #"https://CodingGabe.github.io"
+baseurl:            "" #"/512 Goons
+url:                ""
 github:
   url:               #"https://lenpaul.github.io/Lagrange"
 author:
@@ -13,7 +13,7 @@ author:
   instagram:         "KingGabes"
   github:            "CodingGabe"
   facebook:          "Kinggabes"
-  linkedin:          "/in/gabeamaya"
+  linkedin:          "gabeamaya"
 navigation:
 - title: About
   url: /about
