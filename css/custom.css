@@ -23,3 +23,10 @@
 .center {
 	text-align: center;
 }
+.about h2 {
+	margin-top: 5px;
+	margin-bottom: 0;
+}
+.about p {
+	margin-top: 10px;
+}
