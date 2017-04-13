@@ -23,10 +23,8 @@
 .center {
 	text-align: center;
 }
-.about h2 {
+.about-title {
 	margin-top: 5px;
 	margin-bottom: 0;
-}
-.about p {
-	margin-top: 10px;
+	color: #FF6663;
 }
