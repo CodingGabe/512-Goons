@@ -5,7 +5,7 @@ description:
 baseurl:            "" #"/512 Goons
 url:                ""
 github:
-  url:               #"https://lenpaul.github.io/Lagrange"
+  url:               
 author:
   name:              "Gabe"
   email:             "csstrickster2@gmail.com"
