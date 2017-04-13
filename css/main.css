@@ -483,3 +483,8 @@ pre {
 .center {
 	text-align: center;
 }
+.about-title {
+	margin-top: 5px;
+	margin-bottom: 0;
+	color: #FF6663;
+}
