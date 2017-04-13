@@ -470,3 +470,16 @@ pre {
 .fa-codepen:hover {
 	color: black;
 }
+
+.about img {
+	display: block;
+	text-align: center;
+	margin: 0 auto;
+	vertical-align: middle;
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+}
+.center {
+	text-align: center;
+}
