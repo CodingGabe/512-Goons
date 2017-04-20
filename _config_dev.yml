@@ -3,9 +3,9 @@ title:               The 512 Goons
 tagline:             Gaming news and Let's Plays
 description:
 baseurl:            "" #"/512 Goons
-url:                ""
+url:                "http://localhost:4000"
 github:
-  url:               
+  url:
 author:
   name:              "Gabe"
   email:             "csstrickster2@gmail.com"
