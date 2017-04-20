@@ -2,8 +2,8 @@
 title:               The 512 Goons
 tagline:             Gaming news and Let's Plays
 description:
-baseurl:            /512-Goons #"/512 Goons
-url:                "https://CodingGabe.github.io"
+baseurl:            "/512-Goons" #/512 Goons
+url:                "https://www.512goons.pro"
 github:
   url:               "https://CodingGabe.github.io/512-Goons"
 author:
