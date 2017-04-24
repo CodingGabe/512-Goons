@@ -1,0 +1,14 @@
+---
+layout: page
+title: Reviews
+---
+
+{% for post in site.posts %}
+
+  <time>{{ post.date | date: "%b %-d, %Y" }}</time>
+  {% if post.categories contains 'review' %}
+    <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+    <p class="post">{{ post.excerpt }}</p>
+  {% endif %}
+
+{% endfor %}
