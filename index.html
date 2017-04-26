@@ -2,6 +2,7 @@
 layout: default
 title: Home
 ---
+{% assign author = site.authors[page.author] %}
 
 {% for post in paginator.posts %}
 <div class="posts">
