@@ -14,13 +14,13 @@ author:
   github:            "CodingGabe"
   facebook:          "Kinggabes"
   linkedin:          "gabeamaya"
-# navigation:
-# - title: About
-#   url: /about
-# - title: Videos
-#   url: /videos
-# - title: Reviews
-#   url: /reviews
+navigation:
+- title: About
+  url: /about
+- title: News
+  url: /news
+- title: Reviews
+  url: /reviews
 
 paginate:            5
 disqus:              #"your-disqus"
